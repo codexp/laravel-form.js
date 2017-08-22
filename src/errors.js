@@ -104,4 +104,4 @@ class Errors {
     }
 }
 
-export default FormErrors;
+export default Errors;

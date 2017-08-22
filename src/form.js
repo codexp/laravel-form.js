@@ -5,7 +5,7 @@
  */
 
 import _        from 'lodash';
-import Errors   from './Errors';
+import Errors   from './errors';
 
 class Form {
     /**
