@@ -1,6 +1,6 @@
 {
   "name": "laravel-form-es6",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "ES6 laravel form and errors objects, using axios for ajax",
   "main": "src/index.js",
   "repository": {
