@@ -1,0 +1,27 @@
+{
+  "name": "laravel-form-es6",
+  "version": "0.0.1",
+  "description": "ES6 laravel form and errors objects, using axios for ajax",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codexp/laravel-form.js.git"
+  },
+  "keywords": [
+    "axios",
+    "es6",
+    "laravel",
+    "form",
+    "errors"
+  ],
+  "author": "codexp <codexp@gmx.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codexp/laravel-form.js/issues"
+  },
+  "homepage": "https://github.com/codexp/laravel-form.js#readme",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "lodash": "^4.17.4"
+  }
+}
